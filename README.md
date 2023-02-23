@@ -1,4 +1,4 @@
-# College_Tuition_Predictor
+## About
 Here you will find my College Tuition Predictor project, which was co-authored with Alan Qiao.
 
 This was my first data science project, and I have learned much since then.
